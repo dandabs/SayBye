@@ -1,0 +1,5 @@
+net/danielonline/saybye/SayBye.class
+net/danielonline/saybye/SayBye$1.class
+net/danielonline/saybye/listeners/PlayerQuitEventListener.class
+net/danielonline/saybye/listeners/AsyncPlayerChatEventListener.class
+net/danielonline/saybye/listeners/AsyncPlayerChatEventListener$1.class

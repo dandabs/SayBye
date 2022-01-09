@@ -1,0 +1,4 @@
+name: SayBye
+version: 1.0
+main: net.danielonline.saybye.SayBye
+depend: [ProtocolLib]
