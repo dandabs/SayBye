@@ -46,7 +46,8 @@ public class AsyncPlayerChatEventListener implements Listener {
                 || e.getMessage().toLowerCase().contains("hei hei")
                 || e.getMessage().toLowerCase().contains("moikka")
                 || e.getMessage().toLowerCase().contains("bæ")
-                || e.getMessage().toLowerCase().contains("hadde")) {
+                || e.getMessage().toLowerCase().contains("hadde")
+                || e.getMessage().toLowerCase().contains("adeus")) {
 
             task = null;
 
